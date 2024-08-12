@@ -1,20 +1,5 @@
 # Бази от дании - задачи
 
-* Базата movies
-
-![alt text](images/movies.png)
-
-* Базата pc
-
-![alt text](images/pc.png)
-
-* Базата ships
-
-![alt text](images/ships.png)
-
---------------------------------------------------------------
-
-
 * SELECT - извличане на данни 
 * FROM - откъде извличаме данните
 * OR, AND - И, ИЛИ
